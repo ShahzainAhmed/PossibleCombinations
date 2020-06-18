@@ -6,3 +6,4 @@
 
 ## Problem Solution:
 - Take in the first, second and third number and store it in separate variables.
+- Then append all the three numbers to the list.
