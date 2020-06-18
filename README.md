@@ -3,3 +3,6 @@
 
 ## Problem Description:
 ### It takes three distinct numbers and prints all possible combinations from the digits.
+
+## Problem Solution:
+
