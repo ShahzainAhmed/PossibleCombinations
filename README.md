@@ -17,3 +17,4 @@
 - User must enter the first, second and third number.
 - All the elements are appending into a list for the ease of comparison.
 - The for loops range from 0-2 which are basically the indexes of the three elements in the list.
+- If none of the indexes are equal to each other, the element associated with the particular element in the list is printed.
