@@ -15,3 +15,4 @@
 
 ## Program Explanation:
 - User must enter the first, second and third number.
+- All the elements are appending into a list for the ease of comparison.
