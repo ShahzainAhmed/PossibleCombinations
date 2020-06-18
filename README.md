@@ -9,3 +9,5 @@
 - Then append all the three numbers to the list.
 - Use three for loops and print the digits in the list if none of their indexes are equal to each other.
 - Exit.
+
+## Append Method:
