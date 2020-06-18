@@ -11,3 +11,4 @@
 - Exit.
 
 ## Append Method:
+### append() method in python adds a single item to the existing list. It doesn't return a new list of items but will modify the original list by adding the item to the end of the list.
