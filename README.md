@@ -5,4 +5,4 @@
 ### It takes three distinct numbers and prints all possible combinations from the digits.
 
 ## Problem Solution:
-
+- Take in the first, second and third number and store it in separate variables.
